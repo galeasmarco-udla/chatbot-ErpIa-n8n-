@@ -16,7 +16,7 @@ utilizando WhatsApp como canal de interacción.
 ---
 
 ### 3. Inicio de una conversación
-El usuario inicia la interacción enviando un mensaje de texto, audio o imagen
+El usuario inicia la interacción enviando un mensaje de texto, audio.
 al número de WhatsApp configurado para el chatbot.
 
 Ejemplo:
@@ -42,10 +42,9 @@ Ejemplo:
 ¿Y por producto?
 ---
 
-### 6. Mensajes de voz e imágenes
+### 6. Mensajes de voz
 El usuario puede enviar:
 - Mensajes de voz, que serán transcritos automáticamente.
-- Imágenes, que serán analizadas por el sistema.
 
 ---
 
